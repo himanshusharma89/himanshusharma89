@@ -1,6 +1,6 @@
 <a href="#"><img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/about.png" width="100%"></a>
 
-<img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/> <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="4%"/> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/> <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="4%"/>
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/>](https://twitter.com/_SharmaHimanshu) [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="4%"/>](https://stackoverflow.com/users/11545939/himanshu-sharma) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/himanshusharma89/) [<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="4%"/>](https://medium.com/@rageremix)
 
 Profile build in progress... wait for it! 😄
 
