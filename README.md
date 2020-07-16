@@ -1,7 +1,7 @@
 ### Hey there! 👋🏻
 
 ## I am Himanshu Sharma. 
-### A Flutter Developer, a Open Source Contributor & a Content Writer.
+### A Flutter Developer, An Open Source Contributor & A Content Writer.
 
 - 🔭 I’m currently working on [EVA: AI COACH](https://www.thehealthycompany.in/eva/)
 - 🌱 I’m currently learning State Management in Flutter
