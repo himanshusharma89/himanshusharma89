@@ -7,10 +7,12 @@
 
 - 💻 Flutter Developer Intern [@thehealthycopany](https://www.thehealthycompany.in/)
 - 🔭 I’m currently working on [EVA: AI COACH](https://www.thehealthycompany.in/eva/)
-- 🥇 Ranked 8th in GSSOC'20 [@GirlScriptSummerOfCode](https://github.com/GirlScriptSummerOfCode) 
+- ✍🏻 I am content writer at [IEEE CIET](https://ieee.chitkara.edu.in/)
+- 🥇 Top contributor at [@GirlScriptSummerOfCode](https://github.com/GirlScriptSummerOfCode) & [JGEC WOC](https://github.com/JGEC-Winter-of-Code)
 - 🌱 I’m currently learning State Management in Flutter
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about Flutter 
+- ⚡️ I'm a mentor [@TheUpliftProject](https://github.com/The-Uplift-Project) [@SCI](https://github.com/StudentCode-in)
 - 🤔 I’m looking for help with portfolio website UI
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Trap Nation is my buddy.
