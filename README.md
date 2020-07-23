@@ -18,9 +18,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Trap Nation is my buddy.
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=himanshusharma89&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/> 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusharma89&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/ />-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusharma89&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusharma89&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="55%"/> 
 
 ##
 ### Connect with me:
