@@ -3,6 +3,7 @@
 ## I am Himanshu Sharma. 
 ### A Flutter Developer, An Open Source Contributor & A Content Writer.
 
+<div>
 <img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="50%"/>
 
 - 💻 Flutter Developer Intern [@thehealthycopany](https://www.thehealthycompany.in/)
@@ -16,6 +17,7 @@
 - 🤔 I’m looking for help with portfolio website UI
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Trap Nation is my buddy.
+</div>
 
 ##
 
