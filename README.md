@@ -8,10 +8,9 @@
 - 💻 Flutter Developer Intern [@thehealthycopany](https://www.thehealthycompany.in/)
 - 🔭 I’m currently working on [EVA: AI COACH](https://www.thehealthycompany.in/eva/)
 - ✍🏻 I’m a content writer at [IEEE CIET](https://ieee.chitkara.edu.in/)
-- 🤖 Creater of bot [@100xFlutter](https://twitter.com/100xFlutter) which track [#100DaysOfFlutter](https://twitter.com/search?q=%23100DaysOfFlutter&src=typed_query)
+- 🤖 Creator of bot [@100xFlutter](https://twitter.com/100xFlutter) which track [#100DaysOfFlutter](https://twitter.com/search?q=%23100DaysOfFlutter&src=typed_query)
 - 🥇 Top contributor at [@GirlScriptSummerOfCode](https://github.com/GirlScriptSummerOfCode) & [@JGEC WOC](https://github.com/JGEC-Winter-of-Code)
 - ⚡️ I’m a mentor [@TheUpliftProject](https://github.com/The-Uplift-Project) [@SCI](https://github.com/StudentCode-in)
-- 🌱 I’m currently learning State Management in Flutter
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about Flutter 
 - 🤔 I’m looking for help with portfolio website UI
