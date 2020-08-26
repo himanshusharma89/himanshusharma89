@@ -4,7 +4,7 @@
 ### A Flutter Developer, An Open Source Contributor & A Content Writer.
 
 <div>
-<img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="50%"/>
+<img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
 
 - 💻 Flutter Developer Intern [@thehealthycopany](https://www.thehealthycompany.in/)
 - 🔭 I’m currently working on [EVA: AI COACH](https://www.thehealthycompany.in/eva/)
