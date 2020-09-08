@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Hey there! 👋🏻
 
 ## I am Himanshu Sharma. 
