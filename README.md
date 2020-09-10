@@ -37,7 +37,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Dart     5 hrs 20 mins   ████████████████████████▒   97.60 % 
+Python   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+YAML     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
 
