@@ -1,8 +1,7 @@
-### Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-
-## I am Himanshu Sharma
-### A Flutter Developer, An Open Source Contributor, Microsoft Learn Student Ambassador & A Content Writer.
-
+<p align="center"> Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"></p>
+<p align="center"><h1 align="center"> I am Himanshu Sharma </h1></p>
+<p align="center"><h4 align="center"> A Flutter Developer, An Open Source Contributor, Microsoft Learn Student Ambassador & A Content Writer </h4></p>
+<br>
 <div>
 <img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
 
@@ -20,7 +19,7 @@
 
 ##
 
-### Frameworks and Languages
+<h4><b>Frameworks and Languages</b></h4>
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -41,7 +40,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 <!-- ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=white) -->
 
-### Tools & Platform
+<h4><b>Tools and Platform</b></h4>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
@@ -53,7 +52,8 @@
 
 ##
 
-📊 Weekly development breakdown
+<h4><b>📊 Weekly development breakdown</b></h4>
+
 <!--START_SECTION:waka-->
 ```text
 Dart         17 hrs 40 mins  ███████████████████████▓░   94.61 % 
@@ -71,7 +71,7 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
 
 ##
 
-### Connect with me:
+<h4><b>Connect with me:</b></h4>
 
 [![Contact](https://img.shields.io/badge/contact@himanshusharma.tech-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@himanshusharma.tech)
 
