@@ -32,11 +32,11 @@
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) -->
-![Flutter](https://img.shields.io/badge/Flutter-white?style=flat-square&logo=Flutter&logoColor=47c5fb)
-![Dart](https://img.shields.io/badge/Dart-white?style=flat-square&logo=Dart&logoColor=2bb7f6)
+![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-white?style=flat-square&logo=c%2B%2B&logoColor=649ad2)
+![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 <!-- ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=white) -->
 
@@ -45,7 +45,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/Firebase-white?style=flat-square&logo=Firebase&logoColor=ffcb2c)
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
