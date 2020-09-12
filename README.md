@@ -1,6 +1,6 @@
-### Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="29px">
+### Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
-## I am Himanshu Sharma. 
+## I am Himanshu Sharma
 ### A Flutter Developer, An Open Source Contributor, Microsoft Learn Student Ambassador & A Content Writer.
 
 <div>
@@ -53,8 +53,6 @@
 
 ##
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusharma89&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusharma89&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="55%"/> 
-
 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
@@ -67,6 +65,11 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ##
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusharma89&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusharma89&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> 
+
+##
+
 ### Connect with me:
 
 [![Contact](https://img.shields.io/badge/contact@himanshusharma.tech-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@himanshusharma.tech)
