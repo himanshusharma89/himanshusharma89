@@ -66,8 +66,13 @@ Python       8 mins          ░░░░░░░░░░░░░░░░░
 
 ##
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusharma89&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>  -->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusharma89&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> </p>
+<details>
+  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusharma89&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusharma89&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
+ </p>
+
+</details>
 
 ##
 
@@ -82,3 +87,5 @@ Python       8 mins          ░░░░░░░░░░░░░░░░░
 
 [![Dev](https://img.shields.io/badge/@rageremix-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/rageremix)
 [![Medium](https://img.shields.io/badge/@rageremix-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rageremix)
+
+![](https://visitor-badge.glitch.me/badge?page_id=himanshusharma89.himanshusharma89)
