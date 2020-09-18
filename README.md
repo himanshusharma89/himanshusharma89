@@ -5,16 +5,15 @@
 <div>
 <img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
 
-- 💻 <samp>Flutter Developer Intern [@thehealthycopany](https://www.thehealthycompany.in/)
-- 🔭 <samp>I’m currently working on [EVA: AI COACH](https://www.thehealthycompany.in/eva/)
+- 🔭 <samp>I’m currently working on my personal portfolio website
 - ✍🏻 <samp>I’m a content writer at [IEEE CIET](https://ieee.chitkara.edu.in/)
 - 🤖 <samp>Creator of bot [@100xFlutter](https://twitter.com/100xFlutter) which track [#100DaysOfFlutter](https://twitter.com/search?q=%23100DaysOfFlutter&src=typed_query)
-- 🥇 <samp>Top contributor at [@GirlScriptSummerOfCode](https://github.com/GirlScriptSummerOfCode) & [@JGEC WOC](https://github.com/JGEC-Winter-of-Code)
+- 🥇 <samp>Among Top 10 contributors at [@GirlScriptSummerOfCode2020](https://github.com/GirlScriptSummerOfCode) & [@JGEC WOC](https://github.com/JGEC-Winter-of-Code)
 - 👯 <samp>I’m looking to collaborate on **Open Source Projects**
-- 💬 <samp>Ask me about Flutter 
-- 🤔 <samp>I’m looking for help with portfolio website UI
+- 💬 <samp>Ask me about Flutter
+- 🤔 <samp>I’m looking for help with starting Android Development
 - 😄 <samp>Pronouns: He/His
-- ⚡ <samp>Fun fact: Trap Nation is my buddy.</samp>
+- ⚡ <samp>Fun fact: Trap Nation is my buddy.
 </div>
 
 ##
