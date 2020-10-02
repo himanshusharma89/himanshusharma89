@@ -5,9 +5,9 @@
 <div>
 <img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
 
-- 🔭 <samp>I’m currently working on my personal portfolio website
-- ✍🏻 <samp>I’m a content writer at [IEEE CIET](https://ieee.chitkara.edu.in/)
-- 🤖 <samp>Creator of bot [@100xFlutter](https://twitter.com/100xFlutter) which track [#100DaysOfFlutter](https://twitter.com/search?q=%23100DaysOfFlutter&src=typed_query)
+- 🔭 <samp>I’m currently maintaing multiple FLutter peojects under #Hacktoberfest 2020
+- ✍🏻 <samp>I’m a writer at Flutter Community and [IEEE CIET](https://ieee.chitkara.edu.in/)
+- 🤖 <samp>Creator of bot [@100xFlutter](https://twitter.com/100xFlutter) and [#100DaysOfFlutter](https://100daysofflutter.azurewebsites.net/#/)
 - 🥇 <samp>Among Top 10 contributors at [@GirlScriptSummerOfCode2020](https://github.com/GirlScriptSummerOfCode) & [@JGEC WOC](https://github.com/JGEC-Winter-of-Code)
 - 👯 <samp>I’m looking to collaborate on **Open Source Projects**
 - 💬 <samp>Ask me about Flutter
