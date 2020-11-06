@@ -87,4 +87,6 @@ YAML         12 mins         ▒░░░░░░░░░░░░░░░░
 [![Dev](https://img.shields.io/badge/@rageremix-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/rageremix)
 [![Medium](https://img.shields.io/badge/@rageremix-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rageremix)
 
+<a href="https://stackexchange.com/users/15998609"><img src="https://stackexchange.com/users/flair/15998609.png?theme=dark" width="208" height="58" alt="profile for Himanshu Sharma on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Himanshu Sharma on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=himanshusharma89.himanshusharma89)
