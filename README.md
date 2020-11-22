@@ -3,11 +3,12 @@
 <p align="center"><h4 align="center"><samp> A Flutter Developer, An Open Source Contributor, Microsoft Learn Student Ambassador & A Content Writer </samp></h4></p>
 <br>
 <div>
-<img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
 
-- 🔭 <samp>I’m currently maintaing multiple Flutter projects under #Hacktoberfest 2020
-- ✍🏻 <samp>I’m a writer at Flutter Community and [IEEE CIET](https://ieee.chitkara.edu.in/)
-- 🤖 <samp>Creator of bot [@100xFlutter](https://twitter.com/100xFlutter) and [#100DaysOfFlutter](https://100daysofflutter.azurewebsites.net/#/)
+- 🔭 <samp>I’m currently working at **PuStack** as a SDE Intern
+- 😄 <samp>I’m maintaining the [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/)
+- ✍🏻 <samp>I write articles for the [Flutter Community](https://medium.com/@rageremix) and [IEEE CIET](https://ieee.chitkara.edu.in/)
+- ⚡ <samp>I’m a organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh)
+- 🤖 <samp>Creator of bot [@100xFlutter](https://twitter.com/100xFlutter)
 - 🥇 <samp>Among Top 10 contributors at [@GirlScriptSummerOfCode2020](https://github.com/GirlScriptSummerOfCode) & [@JGEC WOC](https://github.com/JGEC-Winter-of-Code)
 - 👯 <samp>I’m looking to collaborate on **Open Source Projects**
 - 💬 <samp>Ask me about Flutter
