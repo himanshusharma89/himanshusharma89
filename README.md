@@ -7,7 +7,7 @@
 - 🔭 <samp>I’m currently working at **PuStack** as a SDE Intern
 - 😄 <samp>I’m maintaining the [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/)
 - ✍🏻 <samp>I write articles for the [Flutter Community](https://medium.com/@rageremix) and [IEEE CIET](https://ieee.chitkara.edu.in/)
-- ⚡ <samp>I’m a organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh)
+- ⚡ <samp>I’m the organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh)
 - 🤖 <samp>Creator of bot [@100xFlutter](https://twitter.com/100xFlutter)
 - 🥇 <samp>Among Top 10 contributors at [@GirlScriptSummerOfCode2020](https://github.com/GirlScriptSummerOfCode) & [@JGEC WOC](https://github.com/JGEC-Winter-of-Code)
 - 👯 <samp>I’m looking to collaborate on **Open Source Projects**
