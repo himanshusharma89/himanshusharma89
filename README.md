@@ -1,14 +1,14 @@
 <p align="center"><samp><b> Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> </b></samp></p>
 <p align="center"><h1 align="center"><samp> I am Himanshu Sharma </samp></h1></p>
-<p align="center"><h4 align="center"><samp> A Flutter Developer, An Open Source Contributor, Microsoft Learn Student Ambassador & A Content Writer </samp></h4></p>
+<p align="center"><h4 align="center"><samp> A Flutter Developer, A Microsoft Learn Student Ambassador & A Technical Writer </samp></h4></p>
 <br>
 <div>
 
-- 🔭 <samp>I’m currently working at **PuStack** as a SDE Intern
-- 😄 <samp>I’m maintaining the [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/)
+- 🔭 <samp>I’m currently working on my Data Structures and Algorithm skills.
+- 😄 <samp>I’m the creator of [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/)
 - ✍🏻 <samp>I write articles for the [Flutter Community](https://medium.com/@rageremix) and [IEEE CIET](https://ieee.chitkara.edu.in/)
 - ⚡ <samp>I’m the organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh)
-- 🤖 <samp>Creator of bot [@100xFlutter](https://twitter.com/100xFlutter)
+- 🤖 <samp>Creator of bot [#100DaysOfFlutter](https://twitter.com/100xFlutter) & [##GitHubWrapped](https://twitter.com/GitHubWrapped)
 - 🥇 <samp>Among Top 10 contributors at [@GirlScriptSummerOfCode2020](https://github.com/GirlScriptSummerOfCode) & [@JGEC WOC](https://github.com/JGEC-Winter-of-Code)
 - 👯 <samp>I’m looking to collaborate on **Open Source Projects**
 - 💬 <samp>Ask me about Flutter
@@ -36,7 +36,7 @@
 ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)
+<!--![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)-->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 <!-- ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=white) -->
 
