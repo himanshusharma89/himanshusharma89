@@ -7,14 +7,14 @@
 - 🔭 <samp>I’m currently working on my Data Structures and Algorithm skills.
 - 😄 <samp>I’m the creator of [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/)
 - ✍🏻 <samp>I write articles for the [Flutter Community](https://medium.com/@rageremix) and [IEEE CIET](https://ieee.chitkara.edu.in/)
+- 💬 <samp>Ask me about Flutter
 - ⚡ <samp>I’m the organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh)
 - 🤖 <samp>Creator of bot [#100DaysOfFlutter](https://twitter.com/100xFlutter) & [##GitHubWrapped](https://twitter.com/GitHubWrapped)
 - 🥇 <samp>Among Top 10 contributors at [@GirlScriptSummerOfCode2020](https://github.com/GirlScriptSummerOfCode) & [@JGEC WOC](https://github.com/JGEC-Winter-of-Code)
-- 👯 <samp>I’m looking to collaborate on **Open Source Projects**
-- 💬 <samp>Ask me about Flutter
-- 🤔 <samp>I’m looking for help with starting Android Development
 - 😄 <samp>Pronouns: He/His
-- ⚡ <samp>Fun fact: Trap Nation is my buddy.
+<!-- - 🤔 <samp>I’m looking for help with starting Android Development -->
+<!-- - ⚡ <samp>Fun fact: Trap Nation is my buddy. -->
+<!-- - 👯 <samp>I’m looking to collaborate on **Open Source Projects** -->
 </div>
 
 ##
