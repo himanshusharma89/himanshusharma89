@@ -9,7 +9,7 @@
 - ✍🏻 <samp>I write articles for the [Flutter Community](https://medium.com/@rageremix) and [IEEE CIET](https://ieee.chitkara.edu.in/)
 - 💬 <samp>Ask me about Flutter
 - ⚡ <samp>I’m the organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh)
-- 🤖 <samp>Creator of bot [#100DaysOfFlutter](https://twitter.com/100xFlutter) & [##GitHubWrapped](https://twitter.com/GitHubWrapped)
+- 🤖 <samp>Creator of bot [#100DaysOfFlutter](https://twitter.com/100xFlutter) & [#GitHubWrapped](https://twitter.com/GitHubWrapped)
 - 🥇 <samp>Among Top 10 contributors at [@GirlScriptSummerOfCode2020](https://github.com/GirlScriptSummerOfCode) & [@JGEC WOC](https://github.com/JGEC-Winter-of-Code)
 - 😄 <samp>Pronouns: He/His
 <!-- - 🤔 <samp>I’m looking for help with starting Android Development -->
@@ -86,7 +86,7 @@ JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░
 [![Stack Overflow](https://img.shields.io/badge/Himanshu_Sharma-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11545939/himanshu-sharma)
 
 [![Dev](https://img.shields.io/badge/@rageremix-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/rageremix)
-[![Medium](https://img.shields.io/badge/@rageremix-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rageremix)
+[![Medium](https://img.shields.io/badge/@rageremix-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@himanshusharma89)
 
 <a href="https://stackexchange.com/users/15998609"><img src="https://stackexchange.com/users/flair/15998609.png?theme=dark" width="208" height="58" alt="profile for Himanshu Sharma on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Himanshu Sharma on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
