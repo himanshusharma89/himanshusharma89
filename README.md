@@ -79,15 +79,14 @@ JavaScript   15 mins         ▓░░░░░░░░░░░░░░░░
 <h4><b><samp>Connect with me:</samp></b></h4>
 
 [![Contact](https://img.shields.io/badge/contact@himanshusharma.tech-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@himanshusharma.tech)
-
+<!--
 [![Twitter](https://img.shields.io/badge/@__SharmaHimanshu-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_SharmaHimanshu)
 [![Linkedin](https://img.shields.io/badge/Himanshu_Sharma-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshusharma89) 
 [![Codepen](https://img.shields.io/badge/Himanshu_Sharma-1e1f26?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/himanshusharma89)
 [![Stack Overflow](https://img.shields.io/badge/Himanshu_Sharma-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11545939/himanshu-sharma)
 
 [![Dev](https://img.shields.io/badge/@himanshusharma89-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/rageremix)
-[![Medium](https://img.shields.io/badge/@himanshusharma89-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@himanshusharma89)
+[![Medium](https://img.shields.io/badge/@himanshusharma89-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@himanshusharma89)-->
 
-<a href="https://stackexchange.com/users/15998609"><img src="https://stackexchange.com/users/flair/15998609.png?theme=dark" width="208" height="58" alt="profile for Himanshu Sharma on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Himanshu Sharma on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=himanshusharma89.himanshusharma89)
+
