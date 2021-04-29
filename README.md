@@ -5,13 +5,13 @@
 <div>
 
 - 🔭 <samp>I’m currently working on my Data Structures and Algorithm skills.
-- 😄 <samp>I’m the creator of [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/)
-- ✍🏻 <samp>I write articles for the [Flutter Community](https://medium.com/@rageremix) and [IEEE CIET](https://ieee.chitkara.edu.in/)
-- 💬 <samp>Ask me about Flutter
-- ⚡ <samp>I’m the organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh)
-- 🤖 <samp>Creator of bot [#100DaysOfFlutter](https://twitter.com/100xFlutter) & [#GitHubWrapped](https://twitter.com/GitHubWrapped)
-- 🥇 <samp>Among Top 10 contributors at [@GirlScriptSummerOfCode2020](https://github.com/GirlScriptSummerOfCode) & [@JGEC WOC](https://github.com/JGEC-Winter-of-Code)
-- 😄 <samp>Pronouns: He/His
+- 😄 <samp>I’m the creator of [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/).
+- ✍🏻 <samp>I write articles for the [Flutter Community](https://medium.com/@rageremix).
+- 💬 <samp>Ask me about Flutter.
+- ⚡ <samp>I’m the organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh).
+- 🤖 <samp>Creator of bot [#100DaysOfFlutter](https://twitter.com/100xFlutter) & [#GitHubWrapped](https://twitter.com/GitHubWrapped).
+- 🥇 <samp>Open Source Contributor.
+- 😄 <samp>Pronouns: He/His.
 <!-- - 🤔 <samp>I’m looking for help with starting Android Development -->
 <!-- - ⚡ <samp>Fun fact: Trap Nation is my buddy. -->
 <!-- - 👯 <samp>I’m looking to collaborate on **Open Source Projects** -->
@@ -19,7 +19,7 @@
 
 ##
 
-<h4><b><samp>Frameworks and Languages</samp></b></h4>
+<h4><b><samp>Programming</samp></b></h4>
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -30,25 +30,29 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) -->
-![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)-->
 ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 <!--![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)-->
-<!-- ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=white) -->
 
-<h4><b><samp>Tools and Platform</samp></b></h4>
+<h4><b><samp>Tools and Technologies</samp></b></h4>
 
+![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-ffcb2c?style=flat-square&logo=AWS-Amplify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-443a86?style=flat-square&logo=Heroku&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-62b059?style=flat-square&logo=Node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/Graphql-db33a3?style=flat-square&logo=Graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ba94e?style=flat-square&logo=MongoDB&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
+![Codemagic](https://img.shields.io/badge/CodeMagic-black?style=flat-square&logo=CodeMagic&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown&logoColor=white)
+![LaTex](https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=LaTex&logoColor=white)
 
 ##
 
