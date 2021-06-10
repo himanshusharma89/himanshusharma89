@@ -1,16 +1,16 @@
 <p align="center"><samp><b> Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> </b></samp></p>
 <p align="center"><h1 align="center"><samp> I am Himanshu Sharma </samp></h1></p>
-<p align="center"><h4 align="center"><samp> A Flutter Developer, A Microsoft Learn Student Ambassador & A Technical Writer </samp></h4></p>
+<p align="center"><h4 align="center"><samp> A Software Engineer, & A Technical Writer </samp></h4></p>
 <br>
 <div>
 
-- 🔭 <samp>I’m currently working on my Data Structures and Algorithm skills.
+- 🔭 <samp>I’m currently working at [Vymo](https://www.getvymo.com/) as a SWE Intern.
+- ✍🏻 <samp>I write articles for the [Flutter Community](https://medium.com/@himanshusharma89).
+- 💬 <samp>Ask me about Flutter, Dart & Firebase.
+- ⚡ <samp>I’m a organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh) & [Flutter India](https://flutterindia.dev/).
+- 🤖 <samp>Creator of [#GitHubWrapped](https://twitter.com/GitHubWrapped) & [#100DaysOfFlutter](https://twitter.com/100xFlutter) bots.
 - 😄 <samp>I’m the creator of [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/).
-- ✍🏻 <samp>I write articles for the [Flutter Community](https://medium.com/@rageremix).
-- 💬 <samp>Ask me about Flutter.
-- ⚡ <samp>I’m the organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh).
-- 🤖 <samp>Creator of bot [#100DaysOfFlutter](https://twitter.com/100xFlutter) & [#GitHubWrapped](https://twitter.com/GitHubWrapped).
-- 🥇 <samp>Open Source Contributor.
+- 🥇 <samp>Open Source Enthusiast.
 - 😄 <samp>Pronouns: He/His.
 <!-- - 🤔 <samp>I’m looking for help with starting Android Development -->
 <!-- - ⚡ <samp>Fun fact: Trap Nation is my buddy. -->
@@ -19,23 +19,12 @@
 
 ##
 
-<h4><b><samp>Programming</samp></b></h4>
+<h4><b><samp>Programming Languages</samp></b></h4>
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)-->
 ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-<!--![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)-->
 
 <h4><b><samp>Tools and Technologies</samp></b></h4>
 
@@ -56,7 +45,8 @@
 
 ##
 
-<h4><b><samp>📊 Weekly development breakdown</samp></b></h4>
+<details>
+  <summary><b><samp>📊 Weekly development breakdown</samp></b></summary>
 
 <!--START_SECTION:waka-->
 ```text
@@ -69,6 +59,8 @@ Groovy       17 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ##
+
+</details>
 
 <details>
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
@@ -89,8 +81,9 @@ Groovy       17 mins         ▒░░░░░░░░░░░░░░░░
 [![Codepen](https://img.shields.io/badge/Himanshu_Sharma-1e1f26?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/himanshusharma89)
 [![Stack Overflow](https://img.shields.io/badge/Himanshu_Sharma-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11545939/himanshu-sharma)
 
-[![Dev](https://img.shields.io/badge/@himanshusharma89-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/rageremix)
 [![Medium](https://img.shields.io/badge/@himanshusharma89-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@himanshusharma89)
+[![Hasnode](https://img.shields.io/badge/blog.himanshusharma.tech-black?style=flat-square&logo=hashnode&logoColor=2962ff)](https://blog.himanshusharma.tech)
+
 
 <a href="https://stackexchange.com/users/15998609"><img src="https://stackexchange.com/users/flair/15998609.png?theme=dark" width="208" height="58" alt="profile for Himanshu Sharma on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Himanshu Sharma on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
