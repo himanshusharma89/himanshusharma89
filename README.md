@@ -50,7 +50,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Dart   11 mins         ███████████████████████▓░   94.77 % 
 ```
 <!--END_SECTION:waka-->
 
