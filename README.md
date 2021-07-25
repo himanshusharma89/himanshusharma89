@@ -50,10 +50,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   27 mins         ███████████░░░░░░░░░░░░░░   44.63 % 
-Dart         14 mins         ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-YAML         14 mins         ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-Git Config   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
