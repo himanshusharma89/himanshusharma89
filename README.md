@@ -50,9 +50,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Text   18 mins         ███████████▓░░░░░░░░░░░░░   46.95 % 
-Dart   18 mins         ███████████▓░░░░░░░░░░░░░   46.68 % 
-YAML   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
