@@ -50,7 +50,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Dart    1 hr            ███████████████████████░░   92.09 % 
+Other   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+YAML    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 <!--END_SECTION:waka-->
 
