@@ -50,11 +50,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Groovy     55 mins         █████████████████▓░░░░░░░   70.13 % 
-Kotlin     9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-XML        7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Dart       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
