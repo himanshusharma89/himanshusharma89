@@ -50,10 +50,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart      1 hr            ████████████████▒░░░░░░░░   65.46 % 
-YAML      21 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.14 % 
-GraphQL   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Groovy    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
