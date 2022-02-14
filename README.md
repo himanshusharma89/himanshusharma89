@@ -50,7 +50,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Dart         1 hr 38 mins    █████████████████░░░░░░░░   68.23 % 
+Properties   19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Groovy       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+YAML         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 ```
 <!--END_SECTION:waka-->
 
