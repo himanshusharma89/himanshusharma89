@@ -50,6 +50,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 3 hrs 40 mins
+
 Dart         2 hrs 6 mins    ██████████████▒░░░░░░░░░░   57.29 % 
 Properties   57 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.03 % 
 Groovy       23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
