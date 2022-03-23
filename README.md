@@ -51,10 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dart     11 mins         ████████████████████░░░░░   80.58 %
-Groovy   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-YAML     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
