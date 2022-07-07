@@ -51,9 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Properties   13 mins         ████████████████████▒░░░░   81.23 %
-Groovy       3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
