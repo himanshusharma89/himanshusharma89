@@ -1,16 +1,16 @@
-<p align="center"><samp><b> Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> </b></samp></p>
+<p align="center"><samp><b> Hey there! 👋 </b></samp></p>
 <p align="center"><h1 align="center"><samp> I am Himanshu Sharma </samp></h1></p>
 <p align="center"><h4 align="center"><samp> A Software Engineer, & A Technical Writer </samp></h4></p>
 <br>
 <div>
 
-- 🔭 <samp>I’m currently working at [Vymo](https://www.getvymo.com/) as a SWE Intern.
-- ✍🏻 <samp>I write articles for the [Flutter Community](https://medium.com/@himanshusharma89).
+- 🔭 <samp>I’m currently working at [Vymo](https://www.getvymo.com/) as a MTS.
+- ✍🏻 <samp>I write articles for the [Flutter Community](https://medium.com/@himanshusharma89) and [LogRocket](https://blog.logrocket.com/author/himanshusharma/).
 - 💬 <samp>Ask me about Flutter, Dart & Firebase.
 - ⚡ <samp>I’m a organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh) & [Flutter India](https://flutterindia.dev/).
 - 🤖 <samp>Creator of [#GitHubWrapped](https://twitter.com/GitHubWrapped) & [#100DaysOfFlutter](https://twitter.com/100xFlutter) bots.
 - 😄 <samp>I’m the creator of [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/).
-- 🥇 <samp>Open Source Enthusiast.
+- 🥇 <samp>Open Source Enthusiast(Not getting much time though). 
 - 😄 <samp>Pronouns: He/His.
 <!-- - 🤔 <samp>I’m looking for help with starting Android Development -->
 <!-- - ⚡ <samp>Fun fact: Trap Nation is my buddy. -->
