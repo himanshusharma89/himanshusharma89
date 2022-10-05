@@ -51,7 +51,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML         40 mins         ██████████████▒░░░░░░░░░░   57.52 %
+Groovy       23 mins         ████████▒░░░░░░░░░░░░░░░░   33.65 %
+Properties   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
 ```
 
 <!--END_SECTION:waka-->
