@@ -4,16 +4,15 @@
 <br>
 <div>
 
-- 🔭 <samp>I’m currently working at [Vymo](https://www.getvymo.com/) as a MTS.
+- 🔭 <samp>I’m currently working at [Vymo](https://www.getvymo.com/) as an SMTS.
 - ✍🏻 <samp>I write articles for the [Flutter Community](https://medium.com/@himanshusharma89) and [LogRocket](https://blog.logrocket.com/author/himanshusharma/).
-- 💬 <samp>Ask me about Flutter, Dart & Firebase.
+- 💬 <samp>Ask me about Flutter, Dart & Firebase and Node.js.
 - ⚡ <samp>I’m a organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh) & [Flutter India](https://flutterindia.dev/).
-- 🤖 <samp>Creator of [#GitHubWrapped](https://twitter.com/GitHubWrapped) & [#100DaysOfFlutter](https://twitter.com/100xFlutter) bots.
-- 😄 <samp>I’m the creator of [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/).
+- 🤖 <samp>Creator of [#GitHubWrapped](https://twitter.com/GitHubWrapped) & [#100DaysOfFlutter](https://twitter.com/100xFlutter) bots and [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/).
 - 🥇 <samp>Open Source Enthusiast(Not getting much time though). 
-- 😄 <samp>Pronouns: He/His.
+<!--- 😄 <samp>Pronouns: He/His.-->
 <!-- - 🤔 <samp>I’m looking for help with starting Android Development -->
-<!-- - ⚡ <samp>Fun fact: Trap Nation is my buddy. -->
+- ⚡ <samp>Fun fact: If you are F1 and PS5 entusiasts we can talk for hours.
 <!-- - 👯 <samp>I’m looking to collaborate on **Open Source Projects** -->
 </div>
 
