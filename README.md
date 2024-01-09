@@ -9,10 +9,10 @@
 - 💬 <samp>Ask me about Flutter, Dart & Firebase and Node.js.
 - ⚡ <samp>I’m a organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh) & [Flutter India](https://flutterindia.dev/).
 - 🤖 <samp>Creator of [#GitHubWrapped](https://twitter.com/GitHubWrapped) & [#100DaysOfFlutter](https://twitter.com/100xFlutter) bots and [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/).
-- 🥇 <samp>Open Source Enthusiast(Not getting much time though). 
+- 🥇 <samp>Open Source Enthusiast(Not getting much time though).
+- ⚡ <samp>Fun fact: If you are F1 and PS5 entusiasts we can talk for hours.
 <!--- 😄 <samp>Pronouns: He/His.-->
 <!-- - 🤔 <samp>I’m looking for help with starting Android Development -->
-- ⚡ <samp>Fun fact: If you are F1 and PS5 entusiasts we can talk for hours.
 <!-- - 👯 <samp>I’m looking to collaborate on **Open Source Projects** -->
 </div>
 
