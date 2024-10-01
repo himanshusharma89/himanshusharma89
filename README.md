@@ -16,13 +16,13 @@
 
 #### <samp>🔭 Senior Member of Technical Staff at [Vymo](https://www.getvymo.com/)
 
-<samp>I focus on optimizing data pipelines, building scalable ETL processes, and driving initiatives for top financial clients. My work involves delivering reliable and high-performance systems that can handle millions of records daily.
+<samp>I optimize data pipelines, build scalable ETL processes, and drive initiatives for top financial clients. My work involves delivering reliable high-performance systems that handle millions of records daily.
 
 ##
 
 ### <samp>🚀 What I’ve Written About
 
-<samp>In the past, I contributed articles to [LogRocket](https://blog.logrocket.com/author/himanshusharma/), [100ms](https://www.100ms.live/blog/clubhouse-clone-flutter) and continue to jot topics up for the [Flutter Community](https://medium.com/@himanshusharma89). I enjoy sharing insights on various topics technologies, helping developers solve problems.
+<samp>In the past, I contributed articles to [LogRocket](https://blog.logrocket.com/author/himanshusharma/), [100ms](https://www.100ms.live/blog/clubhouse-clone-flutter) and continue to jot topics up for the [Flutter Community](https://medium.com/@himanshusharma89). I enjoy sharing insights on various topics technologies, and helping developers solve problems.
 
 ##
 
@@ -43,7 +43,7 @@
 
 #### <samp>⚡ Community Organizer
 
-<samp>Beyond my individual contributions, I help co-organize the [Flutter Chandigarh](https://github.com/flutterchandigarh) & [Flutter India](https://flutterindia.dev/) communities to grow learning, collaboration, and growth among developers across India.
+<samp>Beyond my contributions, I help co-organize the [Flutter Chandigarh](https://flutterchd.web.app) & [Flutter India](https://flutterindia.dev/) communities to grow learning, collaboration, and growth among developers across India.
 
 ##
 
@@ -59,13 +59,13 @@
 
 #### <samp>🤖 Created 100DaysOfFlutter Challenge
 
-<samp> I built [100DaysOfFlutter](https://twitter.com/GitHubWrapped), a app that is meant for developers to contribute publicly and share among the community.
+<samp> I built [100DaysOfFlutter]([https://twitter.com/GitHubWrapped](https://100daysofflutter.azurewebsites.net)), an app that is meant for developers to contribute publicly and share among the community.
 
 ##
 
 <samp> Here's my website built Flutter Web [himanshusharma.tech](https://himanshusharma.tech)
 
-<samp> While I’m an open source enthusiast, I continually explore new tools, technologies, and ways to make meaningful contributions.
+<samp> While I’m an open-source enthusiast, I continually explore new tools, technologies, and ways to make meaningful contributions.
 
 <samp> Fun fact: If you're passionate about Formula 1 or a PlayStation 5 gamer, we could chat for hours!
 
