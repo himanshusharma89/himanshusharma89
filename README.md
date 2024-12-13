@@ -14,9 +14,9 @@
 
 ### <samp>🚀 What I’m Working On
 
-#### <samp>🔭 Senior Member of Technical Staff at [Vymo](https://www.getvymo.com/)
+#### <samp>🔭 DevRel Engineer at [Infracloud](https://www.infracloud.io)
 
-<samp>I optimize data pipelines, build scalable ETL processes, and drive initiatives for top financial clients. My work involves delivering reliable high-performance systems that handle millions of records daily.
+<samp>TODO: Add details :)
 
 ##
 
