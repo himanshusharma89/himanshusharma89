@@ -7,14 +7,14 @@
 </h1>
 
 <p align="center">
-  <samp>A Software Engineer & Technical Writer passionate about cloud-native technologies, open-source projects, and delivering scalable solutions.
+  <samp>A Senior Software Engineer & Technical Writer passionate about cloud-native technologies, open-source projects, and delivering scalable solutions.
 </p>
 
 ##
 
 ### <samp>🚀 What I’m Working On
 
-#### <samp>🔭 DevRel Engineer at [Infracloud](https://www.infracloud.io)
+#### <samp>🔭 Senior Software Engineer at [Freshworks](https://www.freshworks.com)
 
 <samp>TODO: Add details :)
 
