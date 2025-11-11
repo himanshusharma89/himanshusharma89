@@ -22,7 +22,7 @@
 
 ### <samp>🚀 What I’ve Written About
 
-<samp>In the past, I contributed articles to [LogRocket](https://blog.logrocket.com/author/himanshusharma/), [100ms](https://www.100ms.live/blog/clubhouse-clone-flutter) and continue to jot topics up for the [Flutter Community](https://medium.com/@himanshusharma89). I enjoy sharing insights on various topics technologies, and helping developers solve problems.
+<samp>In the past, I contributed articles to [Improving](https://www.infracloud.io/blogs/), [LogRocket](https://blog.logrocket.com/author/himanshusharma/), [100ms](https://www.100ms.live/blog/clubhouse-clone-flutter) and continue to jot topics up for the [Flutter Community](https://medium.com/@himanshusharma89). I enjoy sharing insights on various topics technologies, and helping developers solve problems.
 
 ##
 
@@ -47,19 +47,16 @@
 
 ##
 
-### <samp>🏆 Achievements
+### <samp>🏆 Recent Highlights
 
-#### <samp>🥇 Top 10 Global Winner of Google Solution Challenge 2021
+#### <samp>[darkdown-to-markdown NPM Package](https://www.npmjs.com/package/darkdown-to-markdown)
+<samp>A node package which converts darkdown to GitBook readable markdown format with comprehensive migration tools. NPM Package
 
-<samp> My team and I developed *Swaasthy*, a health app with features like doctor consultancy, SOS calls, and heatmaps to aid health tracking. We ranked in the top 10 globally.  
+#### <samp>[How to Build Your Own MCP Server](https://www.infracloud.io/blogs/build-your-own-mcp-server/)
+<samp>A step-by-step guide to building Model Context Protocol (MCP) servers for AI-driven workflows.
 
-#### <samp>🤖 Created GitHubWrapped
-
-<samp> I built [GitHubWrapped](https://twitter.com/GitHubWrapped), a popular app that attracted **15M+ visits**, allowing developers to visualize and share their GitHub contributions annually.
-
-#### <samp>🤖 Created 100DaysOfFlutter Challenge
-
-<samp> I built [100DaysOfFlutter]([https://twitter.com/GitHubWrapped](https://100daysofflutter.azurewebsites.net)), an app that is meant for developers to contribute publicly and share among the community.
+#### <samp>[K8s Diagnostics MCP Server](https://github.com/himanshusharma89/k8s-diagnostics-mcp-server)
+<samp>Top 6 in AI Agents Hackathon (2025, by Airtribe & Lyzr): Built a Kubernetes diagnostics agent using the MCP protocol, recognized among the best AI agents.
 
 ##
 
